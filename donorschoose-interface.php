@@ -27,8 +27,6 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 /**
  * Creates a connection to DonorsChoose.org via their API    
- *
- * @param associative array $query - Configures the get parameters 
  * 
  * @param string $api_key - Set API as assigned by DonorsChoose.org (defaults to testing key)
  *
