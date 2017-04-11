@@ -2,7 +2,7 @@
 A simple Wordpress plugin with methods to retrieve data from DonorsChoose.org via their API
 
 ## Requirements
-**Wordpress** - currently tested on version 4.7.3
+**Wordpress** - currently tested on version 4.7.3  
 **php-curl** - curl is required to interact with the DonorsChoose API
 
 ## Installation
