@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Donors Choose Interface
-Plugin URI: https://www.rektproductions.com
+Plugin URI: https://www.thePaulCushing.com
 Description: This plugin will provide the functions to interact with the DonorsChoose.org API.
 Version: 0.1
 Author: Paul Cushing
